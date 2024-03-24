@@ -1,7 +1,7 @@
 height, ask_height, patience = list(map(int, input().split()))
 day = 1
     
-while patience > 0:
+while True:
     if day % 10 == 0:
         day += 1
         continue
