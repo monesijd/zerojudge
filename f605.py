@@ -11,4 +11,4 @@ for _ in range(number):
         buy_money += average
 
 
-print(buy_number, buy_money)
+print(buy_number, buy_money) 
