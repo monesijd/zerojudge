@@ -18,4 +18,4 @@ for _ in range(1, change_number+1):
 for i in range(height):
     for j in range(weight):
         print(seat_list[i][j], end=" ")
-    print()
+    print() 
