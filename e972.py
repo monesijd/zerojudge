@@ -12,4 +12,4 @@ if last_money < 0:
 elif 0 <= last_money <= 0.5:
     print(f"{which_money} 0.00")
 else:
-    print(f"{which_money} {last_money:.2f}")
+    print(f"{which_money} {last_money:.2f}") 
