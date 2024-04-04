@@ -12,4 +12,4 @@ for i in range(11):
         if sorted_box[i] == vote_box[j] and sorted_box[i] != 0:
             vote_box[j] = 0
             print(f"{j} ", end="")
-            break
+            break 
