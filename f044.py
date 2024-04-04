@@ -4,4 +4,4 @@ day = 1
 while end_number != 1:
     end_number = end_number // 2
     day += 1
-print(day-1)
+print(day-1) 
