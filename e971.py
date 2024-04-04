@@ -20,4 +20,4 @@ for i in range(height):
 for i in range(height):
     for _ in range(weight):
         print(f"{drawing[i][_]} ", end="")
-    print()
+    print() 
