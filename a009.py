@@ -6,4 +6,4 @@ while True:
     if value[0] + i == '*':       
         for j in range(len(code)):        
             print()
-    i +=1
+    i +=1 
