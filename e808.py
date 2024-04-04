@@ -20,4 +20,4 @@ for each_input in input_list:
     if each_input == 0:
         break
     else:
-        print(f"{time_list[each_input][0]}:{time_list[each_input][1]}")
+        print(f"{time_list[each_input][0]}:{time_list[each_input][1]}") 
